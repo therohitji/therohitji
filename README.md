@@ -9,15 +9,19 @@
 <a href="https://www.rohitswerashi.com"><img src="assets/btn-site.svg" alt="Website" height="38"></a>
 </p>
 
-I'm Rohit. I come from Varanasi, with no connections and no capital. I started building in Class 10, took two startups to the Shark Tank India audition finals, and closed companies myself. I looked people in the eye, told them it was over, and woke up the next day to build again.
+**Founder & CEO of [GeniOS](https://thegenios.com), software that thinks for your company.**
 
-Now I'm building **[GeniOS](https://thegenios.com)**, the autonomous company: software that reads everything a company runs on, works out what is going wrong, and tells the right person or agent what to do next.
+- **Now:** Building GeniOS. $250k ARR, 30+ enterprises piloting.
+- **Experience:** 8+ years in company building, product and AI. 6 startups, teams of 50+.
+- **Achieved:** $330k revenue and ARR. 10,000+ students mentored. Top 1% on Topmate.
+- **Recognised:** Stanford ASES, Harvard HPAIR, Shark Tank India audition finalist (S2, S4), Top 60 Startups Delhi NCR.
+- **Backed by:** Founders, Inc. and NSRCEL IIM Bangalore.
 
 <p align="center"><img src="assets/numbers.svg" width="100%" alt="$500k revenue and ARR goal by December 2026 with $330k so far. 6 startups. 10,000+ students mentored. 500+ executives spoken to. $250k GeniOS ARR. 30+ enterprises piloting. 100+ sessions delivered. 1,560 commits in 2026."></p>
 
 ## What I'm building
 
-Automation runs steps, memory stores and agents do tasks. Nobody decides what matters today. **GeniOS does.** It forms a company's goals from its own emails, decks and meetings, sends one situation with one owner and one date, and closes an item only when the email, the calendar or the CRM shows it happened. People stay at the centre: nothing goes out until a human approves it.
+GeniOS reads a company's tools, decides what matters today, gives it one owner and one date, and closes it only when the proof shows it happened. A human approves everything that goes out.
 
 <p align="center"><img src="assets/loop.svg" width="100%" alt="Open loop today: signal, one person's memory, maybe someone acts, nobody checks. Closed loop with GeniOS: signal, reason, owner acts, proof, learn, and back again."></p>
 
@@ -64,7 +68,7 @@ Automation runs steps, memory stores and agents do tasks. Nobody decides what ma
 </p>
 
 <details>
-<summary>Open source you can read today</summary>
+<summary>Public code you can read today</summary>
 
 | Repository | What it is |
 |---|---|
@@ -73,6 +77,8 @@ Automation runs steps, memory stores and agents do tasks. Nobody decides what ma
 | [ai-pm-2026](https://github.com/therohitji/ai-pm-2026) | AI Product Management: 15 chapters, 45 lessons, 10 real teardowns |
 | [mr-elite-orchestrator](https://github.com/therohitji/mr-elite-orchestrator) | The multi-agent orchestrator: five agents on one shared brain |
 | [happy-openclaw](https://github.com/therohitji/happy-openclaw) | Mr. Happy, a zero-cost AI chief of staff on OpenClaw, Groq, Telegram and React |
+| [skill-forge-mentor](https://github.com/therohitji/skill-forge-mentor) | The Moronss AI learning platform: mentor chat, generated labs, portfolio and placement |
+| [themeeting-memory](https://github.com/therohitji/themeeting-memory) | Meeting audio to decisions, action items, risks and summaries |
 
 </details>
 
@@ -96,7 +102,7 @@ Automation runs steps, memory stores and agents do tasks. Nobody decides what ma
 
 <p align="center"><img src="assets/reach.svg" width="100%" alt="NIET E-Cell: 20,000+ students reached, The Moronss: 10,000+ students mentored, Analysing Patterns: 5,000+ youths reached, Hustlers Fellowship: 3,000+ community members, Smart ATS Builder: 1,500+ users, MBA programs: 500+ students guided"></p>
 
-Mentees went on to BlackRock, AMD, Zscaler, PayPal, Google, EY and Cvent. I've given 100+ keynotes, workshops and seminars, online and offline, including Hatch at IIT Bombay (2026) and Context Engineering at Nerds Room, Thoughtworks (2025).
+Mentees at BlackRock, AMD, Zscaler, PayPal, Google, EY and Cvent. 100+ sessions, including IIT Bombay (2026) and Thoughtworks (2025).
 
 ## Recognition
 
@@ -139,7 +145,7 @@ Mentees went on to BlackRock, AMD, Zscaler, PayPal, Google, EY and Cvent. I've g
 
 ## What people say
 
-> Rohit is one of the most talented and inspiring leaders I've come across. When he first shared GeniOS with me, I immediately knew he was onto something groundbreaking.
+> Rohit is one of the most talented and inspiring leaders I've come across.
 >
 > **Aakriti Aggarwal**, AI Research Engineer, IBM · Microsoft MVP (AI)
 
@@ -147,12 +153,10 @@ Mentees went on to BlackRock, AMD, Zscaler, PayPal, Google, EY and Cvent. I've g
 >
 > **Pratiksha Aggarwal**, Software Engineer, Google
 
-> His clarity of thought and dedication stood out every single time. Exceptional vision. Strong execution. Never-give-up attitude, in that order.
+> Exceptional vision. Strong execution. Never-give-up attitude, in that order.
 >
 > **Arka Mazumder**, SWE-III, Google
 
 ## Let's talk
 
-If you're building a company, hiring for one or backing one, I'd like to hear from you. Email **rohitswerashi@thegenios.com** or [book a call](https://cal.com/rohitswerashi/genios).
-
-<p align="center"><em>The scoreboard only counts if you stop playing.</em></p>
+Building, hiring or investing? Email **rohitswerashi@thegenios.com** or [book a call](https://cal.com/rohitswerashi/genios).
