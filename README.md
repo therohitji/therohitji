@@ -77,8 +77,6 @@ GeniOS reads a company's tools, decides what matters today, gives it one owner a
 | [ai-pm-2026](https://github.com/therohitji/ai-pm-2026) | AI Product Management: 15 chapters, 45 lessons, 10 real teardowns |
 | [mr-elite-orchestrator](https://github.com/therohitji/mr-elite-orchestrator) | The multi-agent orchestrator: five agents on one shared brain |
 | [happy-openclaw](https://github.com/therohitji/happy-openclaw) | Mr. Happy, a zero-cost AI chief of staff on OpenClaw, Groq, Telegram and React |
-| [skill-forge-mentor](https://github.com/therohitji/skill-forge-mentor) | The Moronss AI learning platform: mentor chat, generated labs, portfolio and placement |
-| [themeeting-memory](https://github.com/therohitji/themeeting-memory) | Meeting audio to decisions, action items, risks and summaries |
 
 </details>
 
