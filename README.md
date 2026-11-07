@@ -9,15 +9,11 @@
 <a href="https://www.rohitswerashi.com"><img src="assets/btn-site.svg" alt="Website" height="38"></a>
 </p>
 
-**Founder & CEO of [GeniOS](https://thegenios.com), software that thinks for your company.**
-
-- **Now:** Building GeniOS. $250k ARR, 30+ enterprises piloting.
-- **Experience:** 8+ years in company building, product and AI. 6 startups, teams of 50+.
-- **Achieved:** $330k revenue and ARR. 10,000+ students mentored. Top 1% on Topmate.
-- **Recognised:** Stanford ASES, Harvard HPAIR, Shark Tank India audition finalist (S2, S4), Top 60 Startups Delhi NCR.
-- **Backed by:** Founders, Inc. and NSRCEL IIM Bangalore.
+Founder & CEO of [GeniOS](https://thegenios.com). 8+ years in company building, product and AI. Six startups, teams of 50+.
 
 <p align="center"><img src="assets/numbers.svg" width="100%" alt="$500k revenue and ARR goal by December 2026 with $330k so far. 6 startups. 10,000+ students mentored. 500+ executives spoken to. $250k GeniOS ARR. 30+ enterprises piloting. 100+ sessions delivered. 1,560 commits in 2026."></p>
+
+<p align="center"><img src="assets/recognition.svg" width="100%" alt="Recognition and backing: Stanford ASES delegate, Harvard HPAIR delegate three times, Shark Tank India audition finalist S2 and S4, Top 60 Startups Delhi NCR, Founders, Inc., NSRCEL IIM Bangalore, NVIDIA Inception, Microsoft for Startups."></p>
 
 ## What I'm building
 
@@ -25,13 +21,28 @@ GeniOS reads a company's tools, decides what matters today, gives it one owner a
 
 <p align="center"><img src="assets/loop.svg" width="100%" alt="Open loop today: signal, one person's memory, maybe someone acts, nobody checks. Closed loop with GeniOS: signal, reason, owner acts, proof, learn, and back again."></p>
 
-| Support | Who |
+Backed by Founders, Inc. and NSRCEL IIM Bangalore. Incubated at IIIT Delhi. Supported by NVIDIA Inception, Microsoft for Startups and Composio (YC). Advised by senior engineers from Google, IBM and Adobe. [Read the manifesto](https://thegenios.com/manifesto/).
+
+## What I've built
+
+<p align="center">
+<a href="https://thegenios.com"><img src="assets/card-genios.svg" width="49%" alt="GeniOS. The autonomous company. Software that thinks for your company. $250k ARR, 30+ Enterprises piloting, Top 60 Startups, Delhi NCR"></a>
+<a href="https://hustlersfellowship.com"><img src="assets/card-hustlers.svg" width="49%" alt="Hustlers Fellowship. Six years of building, written down as build-first field guides. 500+ People studied it, 20+ Professionals validated it, 3,000+ Community members"></a>
+<img src="assets/card-moronss.svg" width="49%" alt="The Moronss. An AI mentor for students, rebuilt version after version. 10,000+ Students mentored, 100,000+ Engagement, $15k Revenue">
+<img src="assets/card-homians.svg" width="49%" alt="Homians. A bad PG meal became a business, with zero funding. $40k Revenue, 100+ Local jobs, 50+ House moms earning">
+<a href="https://github.com/therohitji/mr-elite-orchestrator"><img src="assets/card-elite.svg" width="49%" alt="Mr. Elite &amp; agents. An admin AI employee on a multi-agent orchestrator. 5 Working agents, 1 Shared brain, 5 Startups piloted"></a>
+<a href="https://www.linkedin.com/posts/aakritiaggarwal13_resumebuilder-latexresume-webdev-activity-7357028589369769986-lH2B"><img src="assets/card-ats.svg" width="49%" alt="Smart ATS Builder. A multi-hour resume task, done in five minutes. 1,500+ Users in 30 days, 3,000+ Resumes created, 5 min Per resume"></a>
+</p>
+
+**Code you can read today**
+
+| Repository | What it is |
 |---|---|
-| **Backed by** | Founders, Inc. and NSRCEL IIM Bangalore |
-| **Incubated at** | IIIT Delhi Innovation & Incubation |
-| **Supported by** | NVIDIA Inception, Microsoft for Startups Founders Hub, Composio (YC) startup partner |
-| **Advised by** | Senior engineers from Google, IBM and Adobe |
-| **Read more** | [The Autonomous Company manifesto](https://thegenios.com/manifesto/) |
+| [Rohit2027](https://github.com/therohitji/Rohit2027) | The code of this website, [rohitswerashi.com](https://www.rohitswerashi.com) |
+| [thehustlersfellowship](https://github.com/therohitji/thehustlersfellowship) | Hustlers Fellowship: build-first AI courses, live at [hustlersfellowship.com](https://hustlersfellowship.com) |
+| [build-live-products](https://github.com/therohitji/build-live-products) | From a raw problem to a live product with real users: 16 chapters, 63 lessons, 10 real teardowns |
+| [ai-pm-2026](https://github.com/therohitji/ai-pm-2026) | AI Product Management: 15 chapters, 45 lessons, 10 real teardowns |
+| [mr-elite-orchestrator](https://github.com/therohitji/mr-elite-orchestrator) | The multi-agent orchestrator: five agents on one shared brain |
 
 ## The road since 2018
 
@@ -56,38 +67,31 @@ GeniOS reads a company's tools, decides what matters today, gives it one owner a
 
 </details>
 
-## What I've built
+## What people say
 
-<p align="center">
-<a href="https://thegenios.com"><img src="assets/card-genios.svg" width="49%" alt="GeniOS. The autonomous company. Software that thinks for your company. $250k ARR, 30+ Enterprises piloting, Top 60 Startups, Delhi NCR"></a>
-<a href="https://hustlersfellowship.com"><img src="assets/card-hustlers.svg" width="49%" alt="Hustlers Fellowship. Six years of building, written down as build-first field guides. 500+ People studied it, 20+ Professionals validated it, 3,000+ Community members"></a>
-<img src="assets/card-moronss.svg" width="49%" alt="The Moronss. An AI mentor for students, rebuilt version after version. 10,000+ Students mentored, 100,000+ Engagement, $15k Revenue">
-<img src="assets/card-homians.svg" width="49%" alt="Homians. A bad PG meal became a business, with zero funding. $40k Revenue, 100+ Local jobs, 50+ House moms earning">
-<a href="https://github.com/therohitji/mr-elite-orchestrator"><img src="assets/card-elite.svg" width="49%" alt="Mr. Elite &amp; agents. An admin AI employee on a multi-agent orchestrator. 5 Working agents, 1 Shared brain, 5 Startups piloted"></a>
-<a href="https://www.linkedin.com/posts/aakritiaggarwal13_resumebuilder-latexresume-webdev-activity-7357028589369769986-lH2B"><img src="assets/card-ats.svg" width="49%" alt="Smart ATS Builder. A multi-hour resume task, done in five minutes. 1,500+ Users in 30 days, 3,000+ Resumes created, 5 min Per resume"></a>
-</p>
+> Rohit is one of the most talented and inspiring leaders I've come across.
+>
+> **Aakriti Aggarwal**, AI Research Engineer, IBM · Microsoft MVP (AI)
 
-<details>
-<summary>Public code you can read today</summary>
+> From bootstrapping HOMIANS to shaping the future of AI, he has consistently shown the ability to build from scratch, pivot with clarity, and lead with empathy.
+>
+> **Pratiksha Aggarwal**, Software Engineer, Google
 
-| Repository | What it is |
-|---|---|
-| [Rohit2027](https://github.com/therohitji/Rohit2027) | The code of this website, [rohitswerashi.com](https://www.rohitswerashi.com) |
-| [thehustlersfellowship](https://github.com/therohitji/thehustlersfellowship) | Hustlers Fellowship: build-first AI courses, live at [hustlersfellowship.com](https://hustlersfellowship.com) |
-| [build-live-products](https://github.com/therohitji/build-live-products) | From a raw problem to a live product with real users: 16 chapters, 63 lessons, 10 real teardowns |
-| [ai-pm-2026](https://github.com/therohitji/ai-pm-2026) | AI Product Management: 15 chapters, 45 lessons, 10 real teardowns |
-| [mr-elite-orchestrator](https://github.com/therohitji/mr-elite-orchestrator) | The multi-agent orchestrator: five agents on one shared brain |
-| [happy-openclaw](https://github.com/therohitji/happy-openclaw) | Mr. Happy, a zero-cost AI chief of staff on OpenClaw, Groq, Telegram and React |
+> Exceptional vision. Strong execution. Never-give-up attitude, in that order.
+>
+> **Arka Mazumder**, SWE-III, Google
 
-</details>
+## People and rooms
+
+<p align="center"><img src="assets/reach.svg" width="100%" alt="NIET E-Cell: 20,000+ students reached, The Moronss: 10,000+ students mentored, Analysing Patterns: 5,000+ youths reached, Hustlers Fellowship: 3,000+ community members, Smart ATS Builder: 1,500+ users, MBA programs: 500+ students guided"></p>
+
+Mentees at BlackRock, AMD, Zscaler, PayPal, Google, EY and Cvent. 100+ sessions, including IIT Bombay (2026) and Thoughtworks (2025).
 
 ## How I work
 
 <p align="center"><img src="assets/activity.svg" width="100%" alt="1560 commits in 2026 over 61 active days. Jan 0, Feb 0, Mar 31, Apr 14, May 0, Jun 10, Jul 0, Aug 127, Sep 243, Oct 1135."></p>
 
 <p align="center"><img src="assets/elite.svg" width="100%" alt="Mr. Elite: six layers and seven stages. Interface, Pipeline, Reasoning, Control, Agents, Memory."></p>
-
-<p align="center"><img src="assets/languages.svg" width="100%" alt="HTML 49%, JavaScript 33%, Python 11%, TypeScript 5%, PLpgSQL 1%, CSS, Shell 0.5%. Public repositories only."></p>
 
 | Area | What I bring |
 |---|---|
@@ -96,12 +100,6 @@ GeniOS reads a company's tools, decides what matters today, gives it one owner a
 | **Product** | Product analytics, product design, prototyping, A/B testing, SQL, roadmapping, OKRs |
 | **Leadership** | Led teams of 50+, trained 60+ interns, agile and scrum, resource planning, cross-functional delivery |
 | **Go to market** | Sold door to door and on cold calls, ran my own sales calls, pricing and unit economics |
-
-## People and rooms
-
-<p align="center"><img src="assets/reach.svg" width="100%" alt="NIET E-Cell: 20,000+ students reached, The Moronss: 10,000+ students mentored, Analysing Patterns: 5,000+ youths reached, Hustlers Fellowship: 3,000+ community members, Smart ATS Builder: 1,500+ users, MBA programs: 500+ students guided"></p>
-
-Mentees at BlackRock, AMD, Zscaler, PayPal, Google, EY and Cvent. 100+ sessions, including IIT Bombay (2026) and Thoughtworks (2025).
 
 ## Recognition
 
@@ -141,20 +139,6 @@ Mentees at BlackRock, AMD, Zscaler, PayPal, Google, EY and Cvent. 100+ sessions,
 **Certifications:** Agile Product Management and Project Execution (Google), Computer Vision (IBM), Market Research (IE University), Leadership Skills (IIMA).
 
 </details>
-
-## What people say
-
-> Rohit is one of the most talented and inspiring leaders I've come across.
->
-> **Aakriti Aggarwal**, AI Research Engineer, IBM · Microsoft MVP (AI)
-
-> From bootstrapping HOMIANS to shaping the future of AI, he has consistently shown the ability to build from scratch, pivot with clarity, and lead with empathy.
->
-> **Pratiksha Aggarwal**, Software Engineer, Google
-
-> Exceptional vision. Strong execution. Never-give-up attitude, in that order.
->
-> **Arka Mazumder**, SWE-III, Google
 
 ## Let's talk
 
