@@ -72,6 +72,7 @@ GeniOS reads a company's tools, decides what matters today, gives it one owner a
 
 | Repository | What it is |
 |---|---|
+| [Rohit2027](https://github.com/therohitji/Rohit2027) | The code of this website, [rohitswerashi.com](https://www.rohitswerashi.com) |
 | [thehustlersfellowship](https://github.com/therohitji/thehustlersfellowship) | Hustlers Fellowship: build-first AI courses, live at [hustlersfellowship.com](https://hustlersfellowship.com) |
 | [build-live-products](https://github.com/therohitji/build-live-products) | From a raw problem to a live product with real users: 16 chapters, 63 lessons, 10 real teardowns |
 | [ai-pm-2026](https://github.com/therohitji/ai-pm-2026) | AI Product Management: 15 chapters, 45 lessons, 10 real teardowns |
