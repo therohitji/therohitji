@@ -38,11 +38,11 @@ Backed by Founders, Inc. and NSRCEL IIM Bangalore. Incubated at IIIT Delhi. Supp
 
 | Repository | What it is |
 |---|---|
-| [Rohit2027](https://github.com/therohitji/Rohit2027) | The code of this website, [rohitswerashi.com](https://www.rohitswerashi.com) |
+| [Rohit2027](https://github.com/therohitji/Rohit2027) | The code of my website, [rohitswerashi.com](https://www.rohitswerashi.com) |
 | [thehustlersfellowship](https://github.com/therohitji/thehustlersfellowship) | Hustlers Fellowship: build-first AI courses, live at [hustlersfellowship.com](https://hustlersfellowship.com) |
 | [build-live-products](https://github.com/therohitji/build-live-products) | From a raw problem to a live product with real users: 16 chapters, 63 lessons, 10 real teardowns |
 | [ai-pm-2026](https://github.com/therohitji/ai-pm-2026) | AI Product Management: 15 chapters, 45 lessons, 10 real teardowns |
-| [mr-elite-orchestrator](https://github.com/therohitji/mr-elite-orchestrator) | The multi-agent orchestrator: five agents on one shared brain |
+| [mr-elite-orchestrator](https://github.com/therohitji/mr-elite-orchestrator) | The multi-agent orchestrator: plain-language request in, policy-checked action out |
 
 ## The road since 2018
 
